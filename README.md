@@ -16,11 +16,11 @@ https://github.com/summerya92/baemin-seonmi/issues/1#issue-1986131867
 https://github.com/summerya92/baemin-seonmi/issues/2#issue-1986132346
 https://github.com/summerya92/baemin-seonmi/issues/3#issue-1986132841
 
-3. Saga (Pub / Sub) 및 Compensation / Correlation 구현
+4. Saga (Pub / Sub) 및 Compensation / Correlation 구현
 주문이 취소되면 결제가 취소된다.
 Correlation 키인 OrderID를 사용하여 해당 건의 결제취소 로직을 실행한다.
 https://github.com/summerya92/baemin-seonmi/issues/4#issue-1986133275
 https://github.com/summerya92/baemin-seonmi/issues/5#issue-1986133669
 
-4. CQRS (실습과 동일하게 Design Level에서 구성)
+5. CQRS (실습과 동일하게 Design Level에서 구성)
 https://github.com/summerya92/baemin-seonmi/issues/6#issue-1986159144
