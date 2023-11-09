@@ -23,3 +23,4 @@ https://github.com/summerya92/baemin-seonmi/issues/4#issue-1986133275
 https://github.com/summerya92/baemin-seonmi/issues/5#issue-1986133669
 
 4. CQRS (실습과 동일하게 Design Level에서 구성)
+https://github.com/summerya92/baemin-seonmi/issues/6#issue-1986159144
